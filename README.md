@@ -26,10 +26,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/Maxlanglet/Prediction_DNN_Medical_Imaging">
-    <img src="images/nn.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Prediction confidence of DNN classification for Medical Imaging</h3>
 
@@ -173,7 +169,7 @@ Project Link: [Neural Networks from scratch in C++](https://github.com/Maxlangle
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-# [Olivier Debeir]()
+*Olivier Debeir
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
